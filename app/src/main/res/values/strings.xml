@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Information converter</string>
+    <string name="title_text">Конвертер единиц\nинформации</string>
+    <string name="login_hint">Введите логин</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="start_button">Начать</string>
+    <string name="alert_title">Ошибка</string>
+    <string name="alert_message">Введите логин и пароль</string>
+    <string name="second_screen_title">Выбор единиц\nинформации</string>
+    <string name="enter_number_hint">Введите число</string>
+    <string name="from_label">Из</string>
+    <string name="to_label">В</string>
+    <string name="result_hint">Результат</string>
+    <string name="calculate_button">Вычислить</string>
+    <string name="entered_number_text">Введенное число</string>
+    <string name="registration_button">Регистрация</string>
+    <string name="ok">OK</string>
+    
+    <string-array name="units_array">
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+    </string-array>
+</resources>
