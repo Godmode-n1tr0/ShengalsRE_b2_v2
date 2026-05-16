@@ -44,7 +44,6 @@ class SelectionFragment : Fragment() {
                 
                 binding.editTextResult.setText(result.toString())
 
-                // Navigate to Result screen with info
                 val resultFragment = ResultFragment.newInstance(numberStr, resultText)
                 parentFragmentManager.beginTransaction()
                     .replace(R.id.fragment_container, resultFragment)
